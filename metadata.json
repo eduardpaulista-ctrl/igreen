@@ -1,0 +1,6 @@
+{
+  "name": "iGreen - Simulação de Economia",
+  "description": "Funil de alta conversão em formato de quiz progressivo para simulação de economia de energia com a iGreen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

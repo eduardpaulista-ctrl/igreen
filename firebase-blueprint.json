@@ -1,0 +1,41 @@
+{
+  "collections": {
+    "leads": {
+      "description": "Form submissions/leads from the interactive energy saving quiz",
+      "fields": {
+        "perfil": {
+          "type": "string",
+          "description": "User profile (Pessoa Física, Empresa, Produtor Rural, Condomínio)"
+        },
+        "consumo": {
+          "type": "string",
+          "description": "Monthly energy bill consumption range"
+        },
+        "estado": {
+          "type": "string",
+          "description": "State name (UF)"
+        },
+        "imovelProprio": {
+          "type": "string",
+          "description": "Whether the property is owned or rented (Sim/Não)"
+        },
+        "querEconomizar": {
+          "type": "string",
+          "description": "Response to interest in saving without panels (Sim / Quero entender melhor)"
+        },
+        "whatsapp": {
+          "type": "string",
+          "description": "WhatsApp contact number with DDD"
+        },
+        "email": {
+          "type": "string",
+          "description": "Contact email address"
+        },
+        "createdAt": {
+          "type": "timestamp",
+          "description": "Submission creation timestamp"
+        }
+      }
+    }
+  }
+}

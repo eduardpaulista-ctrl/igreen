@@ -180,7 +180,7 @@ export default function BusinessPresentation({ userName, onBackToHome, flowType:
                 id="presentation-player-container"
               >
                 <iframe
-                  src="https://www.youtube.com/embed/25u4W7-cVBA?autoplay=1&rel=0"
+                  src="https://webdu.com.br/wp-content/uploads/2026/07/Apresentacao-iGreen-Anderson-Gessler-Acionista-Royal-iGreen-Energy-Brasil-1080p-h264-youtube.mp4"
                   title="Apresentação iGreen"
                   className="w-full h-full border-0 absolute inset-0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
